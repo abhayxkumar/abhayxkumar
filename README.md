@@ -15,12 +15,11 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayxkumar&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="Abhay Kumar" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayxkumar&hide_border=true,issues&theme=gruvbox" alt="Abhay Kumar" />
 
 <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhayxkumar&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="Abhay Kumar" />
-
 
 
 
