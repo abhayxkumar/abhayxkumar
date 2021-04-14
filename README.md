@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **improving my Skills**
 
-- 📫 How to reach me:  **abhay.kumar_cs19@gla.ac.in**
+- 📫 Reach me:  **abhay.kumar_cs19@gla.ac.in**
 
 
 <br>
