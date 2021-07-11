@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="33%" align="right" alt="gif" src="https://user-images.githubusercontent.com/65169803/125200017-91877200-e286-11eb-9684-052335e28753.gif" />
 
 
 - 🔭 I’m currently working on many things.
