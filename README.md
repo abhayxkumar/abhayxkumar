@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on many projects.
 
-- 🌱 I’m currently learning MERN Stack, Data Structures and Algorithms with Java, and many more concepts.
+- 🌱 I’m currently learning MERN Stack, Data Structures and Algorithms, Java, and many more concepts.
 
 - 👯 I’m looking to collaborate on Web Development Projects. 
 
